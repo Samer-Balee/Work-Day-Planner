@@ -28,7 +28,22 @@ Please use the following link to view deployed page : [GitHub Pages](https://sam
 
 GitHub link : [Samer-Balee](https://github.com/Samer-Balee/Work-Day-Planner).
 
+
 ## Usage
 
-* Creating timeblocks elements in html file depending on Bootstrap classes and classes in provided style sheet.
+* Creating timeblocks elements in html file depending on Bootstrap classes and classes in provided style sheet. 
+
+    ![screenshot-timeblock](images/screenshot-1.PNG).
+    
+* Writing code to display current date and getting saved descriptions from local storage
+
+    ![screenshot-function-1](images/screenshot-2.PNG).
+    
+* Function to change timeblocks background color depending on current hour
+
+    ![screenshot-function-2](images/screenshot-3.PNG).
+
+* Saving descriptions in lacal storage
+
+    ![screenshot-function-3](images/screenshot-4.PNG).
 
