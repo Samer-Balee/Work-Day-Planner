@@ -4,10 +4,6 @@ body {
   line-height: 1;
 }
 
-h1 ,.lead {
-  color: #4d224a;
-}
-
 textarea {
   background: transparent;
   border: none;
@@ -20,7 +16,7 @@ textarea {
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: #4d224a;
   border-radius: 0;
   border-bottom: 10px solid #4d224a;
 }
