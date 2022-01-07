@@ -23,9 +23,9 @@ function setDayPlanner() {
 //function to change timeblocks background color depending on current hour
 function changeBlocksColor() {
     $(".time-block").each(function(){
-        var timeBlockHour = $(this).attr("id");
+        var timeBlockHour = parseInt($(this).attr("id"));
         // console.log(timeBlockHour);
-        var currentHour = moment().format("k");
+        var currentHour = parseInt(moment().format("k"));
         // console.log(currentHour);
         $(this).removeClass("past present future");
 
