@@ -29,3 +29,6 @@ Please use the following link to view deployed page : [GitHub Pages](https://sam
 GitHub link : [Samer-Balee](https://github.com/Samer-Balee/Work-Day-Planner).
 
 ## Usage
+
+* Creating timeblocks elements in html file depending on Bootstrap classes and classes in provided style sheet.
+
